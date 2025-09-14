@@ -1,0 +1,16 @@
+# Data & utilities
+pandas>=1.5
+numpy>=1.23
+tqdm>=4.65
+
+# Modeling
+scikit-learn>=1.2
+xgboost>=1.7
+
+# Visualization
+matplotlib>=3.6
+seaborn>=0.12
+missingno>=0.5.2
+
+# Notebook
+jupyter>=1.0
